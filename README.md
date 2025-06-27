@@ -1,7 +1,6 @@
 📝 README.md – Text Classification avec Machine Learning
 markdown
-Copier
-Modifier
+
 # 📚 Classification de Texte avec Scikit-Learn
 
 Ce projet présente une solution de classification de texte supervisée en Python à l'aide des bibliothèques populaires comme Scikit-learn, Pandas, Matplotlib et NLTK. Il vise à détecter automatiquement la catégorie ou l’étiquette d’un texte en fonction de son contenu.
